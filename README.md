@@ -1,3 +1,3 @@
-The slides can be found on http://peterpeerdeman.github.io/webapplications-from-concept-to-code/
+The slides can be found on http://peterpeerdeman.github.io/the-lifely-journey-through-meteor-applications/
 
-This guest lecture was given on the 28th of September 2015 at [AvansHogeschool](http://www.avans.nl/)
+This presentation was given on the 7th of December 2016 at [MeteorNL Meetup at Lifely](www.meetup.com/Meteor-NL/events/234914949/)
